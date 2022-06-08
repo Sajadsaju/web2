@@ -1,0 +1,12 @@
+body{
+margin: 0;
+}
+.section2{
+background-image: url('1222546.jpg');
+background-size: cover;
+height: 100vh;
+}
+.bg-g{
+background-color: #444545;
+}
+
